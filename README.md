@@ -2,9 +2,7 @@
 A V2V Simulator is used for simulation of the paper https://iris.polito.it/retrieve/handle/11583/2822232/359602/COMSNET2020_finalVersion.pdf
 For using, you need install SUMO, VEINS and OMNET++ in appropriate way.
 
-After installing tools needed, if you are using Mac or Linux, run the bash file which is uploaded.
-
-In omnetpp.ini file (in v2v_base/examples/veins/omnetpp.ini) you can tune the variables Nc is for number of cars in each group.
+In omnetpp.ini file (in v2v_base/examples/veins/omnetpp.ini) you can tune the variable Nc is for number of cars in each group.
 
 The results are stored in Results folder V3TLALGforpy, V3TLConfid.
 
